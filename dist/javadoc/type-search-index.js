@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.tuandinh.mathutil.main","l":"Main"},{"p":"com.tuandinh.mathutil.core","l":"MathUtil"}];updateSearchResults();
